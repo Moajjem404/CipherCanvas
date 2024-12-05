@@ -26,7 +26,7 @@ If you encounter issues installing **Pillow**, follow these steps:
 ## 🚀 Getting Started with Termux  
 
 1. **Download Termux**:  
-   Get the latest version of Termux from [F-Droid]([https://f-droid.org/](https://f-droid.org/en/packages/com.termux/)).  
+   Get the latest version of Termux from [F-Droid](https://f-droid.org/en/packages/com.termux/).  
 
 2. **Install Termux**:  
    Once downloaded, install the app on your device.  
