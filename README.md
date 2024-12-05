@@ -22,6 +22,26 @@ CipherCanvas is a simple and powerful Python tool that lets you hide and retriev
 
 ### For Termux Users:  
 If you encounter issues installing **Pillow**, follow these steps:  
+
+## 🚀 Getting Started with Termux  
+
+1. **Download Termux**:  
+   Get the latest version of Termux from [F-Droid](https://f-droid.org/).  
+
+2. **Install Termux**:  
+   Once downloaded, install the app on your device.  
+
+3. **Setup Termux**:  
+   Open Termux and run the following commands to set up your environment:  
+   ```bash
+   apt update  
+   apt upgrade  
+   pkg install git  
+   pkg install python  
+   ```  
+
+
+
 1. Install necessary packages:  
    ```bash
    pkg install python libjpeg-turbo libpng zlib freetype libwebp -y
